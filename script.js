@@ -80,7 +80,7 @@ const wbsData = [
       ],
     },
     {
-      phase: "5. Dokumentasi & Pelatihan",
+      phase: "5. Documentation",
       tasks: [
         {
           title: "Penulisan laporan akhir",
