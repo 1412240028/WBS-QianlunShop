@@ -2,6 +2,7 @@
 
 Ringkasan:
 WBS-QianlunShop adalah repositori front-end berbasis HTML, CSS, dan JavaScript untuk toko / demo e-commerce. Dokumentasi ini berisi petunjuk instalasi, struktur proyek, penggunaan, kontribusi, dan lisensi agar memudahkan pengembang lain untuk menjalankan, mengembangkan, dan menyebarkan proyek.
+Demo: https://wbs-qianlunshop.netlify.app/
 
 Fitur utama
 - Antarmuka pengguna berbasis HTML/CSS
