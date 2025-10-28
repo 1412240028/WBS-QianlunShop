@@ -17,7 +17,7 @@ cd WBS-QianlunShop
     npx live-server
   - http-server:
     npx http-server ./ -c-1
-Buka browser ke alamat yang ditampilkan (mis. http://127.0.0.1:8080)
+Buka browser ke alamat yang ditampilkan (misal. http://127.0.0.1:8080)
 
 4. Menjalankan dengan Node tooling (jika package.json tersedia)
 - Install dependencies:

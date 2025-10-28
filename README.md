@@ -33,9 +33,8 @@ Mulai cepat (Quick Start)
 
 Struktur proyek (ringkasan)
 - index.html — titik masuk aplikasi (halaman utama)
-- src/ atau assets/js/ — berisi file JavaScript (logika aplikasi)
-- assets/css/ atau styles/ — berisi file CSS dan file gaya
-- images/ atau assets/images/ — gambar dan aset statis
+- script.js — berisi file JavaScript (logika aplikasi)
+- style.css — berisi file CSS dan file gaya
 Untuk struktur lengkap, lihat docs/STRUCTURE.md
 
 Pengembangan

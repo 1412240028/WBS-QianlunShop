@@ -10,9 +10,8 @@ Menjalankan aplikasi
 
 Navigasi & komponen penting
 - index.html — halaman utama; di sini biasanya di-include file CSS dan JS inti.
-- assets/css/ — gaya global dan komponen UI.
-- assets/js/ — logika interaksi, event listeners, manipulasi DOM.
-- images/ — aset gambar produk / ikon.
+- style.css — gaya global dan komponen UI.
+- script.js — logika interaksi, event listeners, manipulasi DOM.
 
 Menyesuaikan tampilan
 - Ubah variabel CSS (jika menggunakan CSS custom properties) di file utama style.css.
@@ -35,5 +34,4 @@ Pengujian manual
 - Gunakan DevTools untuk debugging event, network, dan console logs.
 
 Tips deploy
-- Pastikan semua asset (CSS/JS/images) dicopy ke lokasi publik.
 - Jika menggunakan base path di hosting, perbarui tag <base> atau path asset di index.html.

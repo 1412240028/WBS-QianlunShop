@@ -12,12 +12,7 @@ Root/
     - style.css (gaya global)
     - components/ (gaya untuk komponen spesifik)
   - /js
-    - main.js (entrypoint JS)
-    - utils.js (fungsi pembantu)
-    - components/ (module JS untuk komponen tertentu)
-  - /images
-    - logo.png
-    - products/
+    script.js (seluruh fungsi yang ada di web)
 - /docs
   - INSTALLATION.md
   - USAGE.md
@@ -25,8 +20,8 @@ Root/
 
 File penting
 - index.html: halaman utama, include CSS/JS
-- assets/css/style.css: gaya utama dan reset
-- assets/js/main.js: inisialisasi aplikasi dan event binding
+- style.css: gaya utama dan reset
+- script.js: inisialisasi aplikasi dan event binding
 
 Catatan
 - Jika repo menggunakan framework / bundler, Anda mungkin melihat folder seperti src/, dist/, dan konfigurasi bundler (vite.config.js, webpack.config.js).
